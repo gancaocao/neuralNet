@@ -19,7 +19,7 @@ public class InstNNTest
 	 */
 	public static void main(String[] args)
 	{
-		
+
 		try
 		{
 			if (args.length <2)
