@@ -26,6 +26,7 @@ public class InstNNTest
 			{
 				System.out.println();
 				System.out.println("Please include the matrix files as arguments [input matrix] [output matrix]");
+				System.out.println();
 				return;
 			}
 			Scanner inputScanner = new Scanner(System.in);
