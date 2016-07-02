@@ -24,7 +24,7 @@ public class InstNNTest
 		{
 			if (args.length <2)
 			{
-				System.out.println();
+				System.out.println("1");
 				System.out.println("Please include the matrix files as arguments [input matrix] [output matrix]");
 				System.out.println();
 
